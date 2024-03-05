@@ -1,4 +1,4 @@
-package com.javatpoint.restfulwebservices;
+package com.javatpoint.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
